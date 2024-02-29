@@ -30,8 +30,8 @@ Run on Android.
 Initially, to run iOS.
 
 ```Bash
-    cd ios/
-    pod install
+    bundle install 
+    bundle exec pod install
 ```
 
 Run on iOS.
