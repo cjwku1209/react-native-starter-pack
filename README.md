@@ -15,27 +15,28 @@ Install the following frameworks and packages.
 # Build
 
 Clone this repository.
-
 ```Bash
     git clone https://github.com/cjwku1209/react-native-starter-pack.git
     cd react-native-starter-pack
 ```
 
-Run on Android.
+Install packages
+```Bash
+    yarn install
+```
 
+Run on Android.
 ```Bash
     yarn react-native run-android
 ```
 
 Initially, to run iOS.
-
 ```Bash
     bundle install 
     bundle exec pod install
 ```
 
 Run on iOS.
-
 ```Bash
     yarn react-native run-ios
 ```
