@@ -1,4 +1,7 @@
 This is a front-end boilerplate using [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli). 
+# Preinstalled Libraries
+- [Redux](https://react-redux.js.org/)
+- [React Navigation](https://reactnavigation.org/)
 
 # Getting Started
 - [NodeJS](https://nodejs.org/en/)
