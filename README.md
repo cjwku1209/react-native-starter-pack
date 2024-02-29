@@ -35,7 +35,7 @@ Run on iOS.
 
 ```Bash
     yarn react-native run-ios
-
+```
 ### Now what?
 
 - If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
